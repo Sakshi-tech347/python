@@ -1,0 +1,12 @@
+Multiplication= lambda Value1,Value2 : Value1 * Value2
+
+def main():
+    
+        no1 = int(input("Enter First Number :"))
+        no2 = int(input("Enter Second Number :"))
+
+        Ret =Multiplication(no1,no2)
+        print(f"Multiplication  is : {Ret}")
+               
+if __name__ == "__main__":
+    main()
