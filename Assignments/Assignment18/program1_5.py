@@ -1,4 +1,4 @@
-import MarvellousNum
+import Module1
 
 def SumofPrime(Crr):
     Sum = 0
